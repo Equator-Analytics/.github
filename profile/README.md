@@ -1,13 +1,11 @@
-<img alt="equator analytics logo" src="https://equator-ai.com/eq-logo/wordmark/purple.svg" width="280" align="right" >
+<img alt="equator analytics logo" src="https://equator-ai.com/eq-logo/wordmark/purple.svg" width="280" align="left" >
 
-Equator Analytics
------------------
-
-##### Data for sustainable tourism
+_Data for sustainable tourism_
 
 
-### For Careers
+*For careers*
 [Our LinkedIn](https://www.linkedin.com/company/equator-analytics/)
 
-### For Business Enquiries
-hello@equatoranalytics.com
+
+*For Business Enquiries*
+[hello@equatoranalytics.com](mailto:hello@equatoranalytics.com)
