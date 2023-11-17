@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="equator analytics logo" src="https://equator-ai.com/eq-logo/wordmark/purple.svg" width="280">
   <br />
-  _Data for sustainable tourism_
+  <i>Data for sustainable tourism</i>
 </p>
 
 #### For careers
