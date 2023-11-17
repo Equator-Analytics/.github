@@ -3,9 +3,9 @@
 _Data for sustainable tourism_
 
 
-*For careers*
+#### For careers
 [Our LinkedIn](https://www.linkedin.com/company/equator-analytics/)
 
 
-*For Business Enquiries*
+#### For Business Enquiries
 [hello@equatoranalytics.com](mailto:hello@equatoranalytics.com)
