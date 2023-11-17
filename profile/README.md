@@ -1,5 +1,6 @@
 <img alt="equator analytics logo" src="https://equator-ai.com/eq-logo/wordmark/purple.svg" width="280" align="left" >
 
+<br /><br />
 _Data for sustainable tourism_
 
 
